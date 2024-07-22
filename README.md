@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/smarika-chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="smarika-chaudhary" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/smarika chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smarika chaudhary" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/smarika chaudhary" target="blank"><img align="center" src="https://www.linkedin.com/in/smarika-chaudhary-6a560625a/" alt="smarika chaudhary" height="30" width="40" /></a>
 <a href="https://instagram.com/my.dad.is.my.immune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="my.dad.is.my.immune" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/smarika chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smarika chaudhary" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/smarika chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smarika chaudhary" height="30" width="40" /></a>
