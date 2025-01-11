@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Smarika Chaudhary</h1>
+<h1 align="center">Hello 👋, I'm Smarika</h1>
 <h3 align="center">A passionate IT student.</h3>
 <img align="right" alt="coding" width="400" src="smarikaa.gif">
 
